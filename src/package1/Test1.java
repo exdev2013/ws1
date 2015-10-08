@@ -19,7 +19,7 @@ public class Test1 {
 		/*ch2WhileLoop();*/
 		/*ch2DoWhileLoop();*/
 		/*ch2ForStatement();*/
-		/*ch2ForEach();*/
+		ch2ForEach();
 		ch2BreakLoop();
 	}
 	
