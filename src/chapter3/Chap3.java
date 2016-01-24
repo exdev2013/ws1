@@ -11,6 +11,7 @@ public class Chap3 {
 
 		/*chX();*/
 		ch3_strings();
+		ch3_strings();
 	}
 	
 	/** */
@@ -31,4 +32,8 @@ public class Chap3 {
 		
 	}
 	
+	protected static void ch4_strings(){	
+		String string = "animals";
+		System.out.println("charAt() : " + string.charAt(0)); 
+	}
 }
