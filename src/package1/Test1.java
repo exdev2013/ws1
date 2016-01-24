@@ -65,6 +65,7 @@ public class Test1 {
 		System.out.println("-- For-each loop --");	
 		
 		System.out.println();
+		System.out.println();
 		System.out.println("** Array **");
 		final String[] names = new String[3];
 		names[0]="Lisa";
