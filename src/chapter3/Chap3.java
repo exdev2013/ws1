@@ -11,15 +11,11 @@ public class Chap3 {
 
 		/*chX();*/
 		ch3_strings();
-		ch3_strings();
 	}
 	
 	/** */
 	protected static void chX(){	
 		System.out.println("something");
-		System.out.println("something2"); 
-		System.out.println("something3");
-		
 	}
 		
 	/** */
