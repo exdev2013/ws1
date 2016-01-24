@@ -11,6 +11,7 @@ public class Chap3 {
 
 		/*chX();*/
 		ch3_strings();
+		ch4_strings();
 	}
 	
 	/** */
