@@ -60,7 +60,7 @@ public class Test1 {
 	}
 	
 	
-	/** */
+	/** Testing */
 	protected static void ch2ForEach(){	
 		System.out.println("-- For-each loop --");	
 		
