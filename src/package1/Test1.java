@@ -24,10 +24,12 @@ public class Test1 {
 	}
 	
 	/** */
+	/** */
 	protected static void chX(){	
 		System.out.println("something");			
 	}
 	
+	/** */
 	/** */
 	protected static void ch2BreakLoop(){	
 		System.out.println("-- Break Loop --");
