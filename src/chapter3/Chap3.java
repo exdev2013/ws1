@@ -18,6 +18,7 @@ public class Chap3 {
 	protected static void chX(){	
 		System.out.println("something");
 		System.out.println("something2"); 
+		System.out.println("something3");
 		
 	}
 		
